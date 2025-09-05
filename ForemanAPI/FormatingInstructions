@@ -1,0 +1,11 @@
+
+1: turn the machines in the row on
+
+2: Plug in the machine's ethernet sequentially
+
+3: Have the automated script continually update the google sheet (should take around 4-5 seconds per machine)
+
+(Note, the automated script will be able to descern between boxes so if we are pressed for time we could plug in the ethernet
+in two different containers at a time and it will still work)
+
+4: continue 2 and 3. 
